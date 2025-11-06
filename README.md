@@ -1,5 +1,4 @@
 # 🏠 Real Estate Investment Recommender System  
-*A Content-Based Financial Decision Support Tool*
 
 ![Dashboard Screenshot](Artifacts/305379721.png)
 
